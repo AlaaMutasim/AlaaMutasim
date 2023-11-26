@@ -1,14 +1,13 @@
 
-## Hi there I'm AlaaMutasim.
-<img width="25%" align="right" alt="Github"
-src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968
-b-9c939d88a37c.gif" />
-I am 26 years old. Python programmer, I did statistics and computation at Al Neelain university, and master in mathematical sciences at AIMS  ..................
-- How to reach me: [Linkedin]((https://www.linkedin.com/in/alaa-mohammed-50bb7718a/)) [Gmail](alaamutasim176@gmail.com)
-<img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
-alt=""/>
+## Hi there, I'm Alaa Mutasim! 👋
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+I'm a Python programmer passionate about statistics and computation. I pursued my undergraduate studies in statistics and computation at Al Neelain University, followed by a master's in mathematical sciences at AIMS. I love diving into new technologies and exploring their applications.
+
 ## About Me
-- &nbsp;
-- &nbsp;
-- &nbsp; Exploring new technologies.
+- 🌱 Always exploring new technologies and methodologies.
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/alaa-mohammed-50bb7718a/) or via email at alaamutasim176@gmail.com.
+
+![Profile Views](https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue)
+
 <!--
